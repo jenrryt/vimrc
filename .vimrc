@@ -149,6 +149,7 @@ Bundle 'altercation/vim-colors-solarized'
 Bundle 'dante.vim'
 Bundle 'jenrryt/asu1dark.vim'
 Bundle 'chriskempson/vim-tomorrow-theme'
+Bundle 'tomasr/molokai'
 
 " -----------------------------------------------------------------------------
 " Encoding configurations
