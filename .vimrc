@@ -148,6 +148,7 @@ Bundle 'uguu-org/vim-matrix-screensaver'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'dante.vim'
 Bundle 'jenrryt/asu1dark.vim'
+Bundle 'chriskempson/vim-tomorrow-theme'
 
 " -----------------------------------------------------------------------------
 " Encoding configurations
@@ -251,7 +252,7 @@ if g:isGUI
     colorscheme solarized
     set background=dark
 else
-    colorscheme dante
+    colorscheme Tomorrow-Night
 endif
 
 " -----------------------------------------------------------------------------
